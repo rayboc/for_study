@@ -8,6 +8,7 @@ public class RaybocApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RaybocApplication.class, args);
+		
 	}
 
 }
